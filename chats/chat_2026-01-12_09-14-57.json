@@ -1,0 +1,19 @@
+[
+  {
+    "role": "user",
+    "content": "solve x+y=10, if x=(-5) how to solve this question, can you help me to solve this tep by step"
+  },
+  {
+    "role": "assistant",
+    "content": "What is the solution to the equation 2x + 5 = 11?"
+  },
+  {
+    "role": "user",
+    "content": "I don't know"
+  },
+  {
+    "role": "assistant",
+    "content": "Let\u2019s look at a visual to understand this better.",
+    "image_path": "chat_images\\img_20260112_091637_178007.png"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "role": "user",
+    "content": "how to find the radius of a circle, when its area is 140 cm, where pi = 22/7"
+  },
+  {
+    "role": "user",
+    "content": "how to find the radius of a circle, when its area is 140 cm, where pi = 22/7"
+  },
+  {
+    "role": "assistant",
+    "content": "If the area of a circle is 25\u03c0 square units, what is the radius of the circle?"
+  },
+  {
+    "role": "user",
+    "content": "how to find that, what is the relationship btw area and radius"
+  },
+  {
+    "role": "assistant",
+    "content": "That\u2019s okay \ud83d\ude42 Let\u2019s understand this step first.\n\n**Example:**\n\u2022 *Halved* means divided by 2\n\u2022 Half of 10 is 5\n\u2022 Half of r is r/2\n\nNow try this simpler question:\nIf the radius is r, what is the new radius after halving?"
+  },
+  {
+    "role": "user",
+    "content": "r/2"
+  },
+  {
+    "role": "assistant",
+    "content": "Great! You understood this step \ud83d\udc4d\n\nLet\u2019s continue."
+  }
+]

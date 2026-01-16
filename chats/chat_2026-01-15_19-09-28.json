@@ -1,0 +1,26 @@
+[
+  {
+    "role": "user",
+    "content": "solve a+b=10 where a=5"
+  },
+  {
+    "role": "assistant",
+    "content": "What is the solution to the equation 2x + 5 = 11?"
+  },
+  {
+    "role": "user",
+    "content": "don't know"
+  },
+  {
+    "role": "assistant",
+    "content": "No worries \u2014 try this again:\n\nWhat is the solution to the equation 2x + 5 = 11?"
+  },
+  {
+    "role": "user",
+    "content": "I don't  know how to solve this"
+  },
+  {
+    "role": "assistant",
+    "content": "No worries \u2014 try this again:\n\nWhat is the solution to the equation 2x + 5 = 11?"
+  }
+]

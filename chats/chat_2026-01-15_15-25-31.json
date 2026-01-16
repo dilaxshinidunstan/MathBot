@@ -1,0 +1,34 @@
+[
+  {
+    "role": "user",
+    "content": "5+2"
+  },
+  {
+    "role": "assistant",
+    "content": "If you have 5 pencils in one hand and 2 pencils in the other, how many pencils do you have in total?"
+  },
+  {
+    "role": "user",
+    "content": "7"
+  },
+  {
+    "role": "assistant",
+    "content": "Great! You understood this step \ud83d\udc4d"
+  },
+  {
+    "role": "user",
+    "content": "I have 5 pencils and 2 pens. I gave 100rs to buy those and if one pen is 10rs, how to find the price of a pencil"
+  },
+  {
+    "role": "assistant",
+    "content": "If you have 5 pencils in one hand and 2 pencils in the other, how many pencils do you have in total?"
+  },
+  {
+    "role": "user",
+    "content": "7"
+  },
+  {
+    "role": "assistant",
+    "content": "Great! You understood this step \ud83d\udc4d"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "how to find the volume of a cobe"
+  },
+  {
+    "role": "assistant",
+    "content": "If a cube has a volume of 64 cubic units, what is the length of one of its edges?"
+  },
+  {
+    "role": "user",
+    "content": "I want how to find the volume. I don;t know to find it, thats why I am asking to you"
+  },
+  {
+    "role": "assistant",
+    "content": "No worries \u2014 try this again:\n\nIf a cube has a volume of 64 cubic units, what is the length of one of its edges?"
+  }
+]

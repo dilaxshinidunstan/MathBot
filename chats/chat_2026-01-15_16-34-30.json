@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "I have 5 pencils and 2 pens. I gave 100rs to buy those and if one pen is 10rs, how to find the price of a pencil"
+  },
+  {
+    "role": "assistant",
+    "content": "What is the slope of the linear equation 2y = 6x - 5?"
+  }
+]
